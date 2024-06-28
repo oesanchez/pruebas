@@ -6,7 +6,7 @@
 ## Instalación
 
 Clona este repositorio:
-   git clone (https://github.com/oesanchez/cypress-e2e-framework.git)
+   git clone (https://github.com/oesanchez/prueba.git)
 Navega a la carpeta del proyecto:
   cd cypress-e2e-framework
 
